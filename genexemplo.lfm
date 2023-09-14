@@ -1,0 +1,28 @@
+object Form1: TForm1
+  Left = 332
+  Height = 559
+  Top = 0
+  Width = 715
+  Caption = 'Form1'
+  ClientHeight = 559
+  ClientWidth = 715
+  LCLVersion = '2.2.6.0'
+  object btnFisica: TButton
+    Left = 40
+    Height = 25
+    Top = 40
+    Width = 75
+    Caption = 'Fisica'
+    OnClick = btnFisicaClick
+    TabOrder = 0
+  end
+  object btnJurid: TButton
+    Left = 232
+    Height = 25
+    Top = 40
+    Width = 75
+    Caption = 'Juridica'
+    OnClick = btnJuridClick
+    TabOrder = 1
+  end
+end

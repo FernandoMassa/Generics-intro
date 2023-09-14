@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus3\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1457173459"/>
+  <Params Value=" -MDelphi -Scghi -O1 -gw2 -gl -WG -l -vewnhibq -FiD:\Lazarus\Generics-intro\lib\x86_64-win64 -FuC:\lazarus3\lcl\units\x86_64-win64\win32 -FuC:\lazarus3\lcl\units\x86_64-win64 -FuC:\lazarus3\components\freetype\lib\x86_64-win64 -FuC:\lazarus3\components\lazutils\lib\x86_64-win64 -FuC:\lazarus3\packager\units\x86_64-win64 -FuD:\Lazarus\Generics-intro\ -FUD:\Lazarus\Generics-intro\lib\x86_64-win64\ -FED:\Lazarus\Generics-intro\ -oD:\Lazarus\Generics-intro\genericex04.exe -dLCL -dLCLwin32 genericex04.lpr"/>
+</CONFIG>

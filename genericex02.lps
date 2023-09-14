@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="genericex02.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="genericEx02"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="46"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="genarray.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="GenArray"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="121"/>
+        <CursorPos X="72" Y="133"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="79" Column="19" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="80" Column="19" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="81" Column="19" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="82" Column="19" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="84" Column="19" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="101" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="82" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="81" Column="12" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="106" Column="44" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="99" Column="113" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="33" Column="60" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="34" Column="26" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="117" Column="66" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="119" Column="66" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="139" Column="29" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="137" Column="88" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="103" Column="25" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="138" Column="59" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="135" Column="20" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="139" Column="30" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="94" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="144" Column="17" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="98" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="141" Column="27" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="139" Column="69" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="94" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="97" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="98" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="139" Column="43" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="genarray.pas"/>
+        <Caret Line="94" TopLine="82"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="aCondicao"/>
+      </Item>
+      <Item>
+        <Expression Value="T1"/>
+      </Item>
+      <Item>
+        <Expression Value="T2"/>
+      </Item>
+      <Item>
+        <Expression Value="edtTeste.Text"/>
+      </Item>
+      <Item>
+        <Expression Value="vPessoa3"/>
+      </Item>
+      <Item>
+        <Expression Value="vPessoa2"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
